@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Campus API
 
 ## Developer
